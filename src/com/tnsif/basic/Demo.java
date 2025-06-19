@@ -11,7 +11,7 @@ public class Demo {
 public static void main(String[] args) {
 	Demo e=new Demo();
 	e.USN=20;
-	e.name="Bharath V";
+	e.name="Akshatha V";
 	e.age=20;
 	
 	e.show();
